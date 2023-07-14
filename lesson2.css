@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+}
+/* for element selector */
+p{
+    color: red;
+}
+
+/* for id selector */
+#idSelector{
+    color: red;
+}
+
+/* for class selector */
+.classSelector{
+    color: red;
+}
+
+/* for grouping selector */
+.footer, footer{
+    color: red;
+}
