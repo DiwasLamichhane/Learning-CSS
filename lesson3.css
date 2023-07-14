@@ -1,0 +1,11 @@
+
+.FirstP{
+    font-style: oblique;
+    color: blue;
+    border: 2px solid pink;
+}
+.SecondP{
+    font-style: italic;
+    color: blue;
+    border: 2px solid pink;
+}
